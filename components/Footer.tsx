@@ -1,6 +1,7 @@
+import { FC } from 'react'
 import Heading from "./Headiing";
 
-const Footer = () => (
+const Footer:FC = () => (
   <footer>
     <Heading tag="h3" text="Footer INFO" />
   </footer>

@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
-import Heading from "@/components/Headiing";
+import Heading from "../components/Headiing";
 import styles from "../styles/404.module.scss";
 
 const Error = () => {
