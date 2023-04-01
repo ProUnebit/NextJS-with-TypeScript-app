@@ -1,5 +1,5 @@
 ## NextJS with TypeScript App
 
 
- [Open App](http://localhost:3000) with your browser to see the result.
+ [Open App](https://next-js-with-type-script-app.vercel.app) with your browser to see the result.
 
