@@ -30,6 +30,7 @@ const Home = () => (
       <title>Home</title>
     </Head>
     <Heading text="Next.js App" />
+    <Heading tag="h3" text="with TypeScript" />
     {/* <Socials socials={socials} /> */}
   </div>
 );
